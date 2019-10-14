@@ -46,7 +46,7 @@ nav {
 }
 
 .topnav a:hover {
-    border-bottom: 3px solid #fcac45;
+    border-bottom: 3px solid greenyellow;
 }
 
 .topnav .icon {
